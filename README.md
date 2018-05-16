@@ -3,8 +3,9 @@
 
 课程大纲如下，
 ## day1 a.m.
-slides: https://slides.com/sshuair/python-basic
-Notebook: [./day1_am/python_basic.ipynb](python_basic.ipynb)
+- slides: https://slides.com/sshuair/python-basic
+- Notebook: [./day1_am/python_basic.ipynb](day1_am/python_basic.ipynb)
+
 1. python安装
     - 科学发行版选择（anaconda、 python 3.5+）
     - 包库安装（pip、 conda、 windows难以安装的包库解决方法）
@@ -17,7 +18,8 @@ Notebook: [./day1_am/python_basic.ipynb](python_basic.ipynb)
 
 
 ## day1 p.m.
-slides: https://slides.com/cbjing/python-scientific-computing
+- slides: https://slides.com/cbjing/python-scientific-computing
+- Notebook: [./day1_pm/python-scientific-computing](day1_pm/python-scientific-computing.ipynb)
 1. 科学计算常用库讲解
     - numpy、scipy、matplotlib
 2. 地理相关库详解
