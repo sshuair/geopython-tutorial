@@ -46,7 +46,8 @@
 
 
 ## day2 p.m.
-- Notebook: [./machine_learning/house-price.ipynb](./day2_pm/machine_learning/house-price.ipynb)
+- Notebook: [./day2_pm/machine_learning/house-price.ipynb](./day2_pm/machine_learning/house-price.ipynb)
+- Notebook: [./day2_pm/neural_networks.ipynb](./day2_pm/neural_networks.ipynb)
 
 1. 机器学习讲解
     - 以随机森林为例子，结合sklearn讲解房价预测
