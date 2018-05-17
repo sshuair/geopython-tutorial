@@ -3,7 +3,7 @@
 
 课程大纲如下，
 ## day1 a.m.
-- slides: https://slides.com/sshuair/python-basic
+- Slide: https://slides.com/sshuair/python-basic
 - Notebook: [./day1_am/python_basic.ipynb](day1_am/python_basic.ipynb)
 
 1. python安装
@@ -18,8 +18,9 @@
 
 
 ## day1 p.m.
-- slides: https://slides.com/cbjing/python-scientific-computing
+- Slide: https://slides.com/cbjing/python-scientific-computing
 - Notebook: [./day1_pm/python-scientific-computing](day1_pm/python-scientific-computing.ipynb)
+
 1. 科学计算常用库讲解
     - numpy、scipy、matplotlib
 2. 地理相关库详解
@@ -30,8 +31,9 @@
 
 
 ## day2 a.m.
-slides: https://slides.com/cbjing/python-imagery
-notebook: 
+- Slide: https://slides.com/cbjing/python-imagery
+- Notebook: [./day2_am/day2_am.ipynb](day2_am/day2_am.ipynb)
+
 1. 遥感影像数据读写
     - RasterIO、GDAL
 2. 遥感影像数据基本处理
@@ -44,13 +46,10 @@ notebook:
 
 
 ## day2 p.m.
-slides: https://slides.com/sshuair/python-deep-learning
+- Notebook: [./machine_learning/house-price.ipynb](machine_learning/house-price.ipynb)
+
 1. 机器学习讲解
     - 以随机森林为例子，结合sklearn讲解房价预测
 2. 深度学习讲解
     - 讲解基本CNN原理，简单介绍手写数字识别demo
-3. 拓展（深度学习在遥感影像中的应用）
-    - 目标检测
-    - 语义分割
-    - 超分辨率重建
-    - 风格迁移
+
