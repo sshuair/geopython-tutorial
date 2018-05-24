@@ -30,9 +30,21 @@
     - 利用geopandas和shapely读取矢量数据并做空间操作。
 
 
+
 ## day2 a.m.
+- Slide: [./day2_am/machine-learning.key]
+- Notebook: [./day2_am/machine_learning/house-price.ipynb](./day2_pm/machine_learning/house-price.ipynb)
+- Notebook: [./day2_am/neural_networks.ipynb](./day2_pm/neural_networks.ipynb)
+
+1. 机器学习讲解
+    - 以随机森林为例子，结合sklearn讲解房价预测
+2. 深度学习讲解
+    - 讲解基本CNN原理，简单介绍手写数字识别demo
+
+
+## day2 p.m.
 - Slide: https://slides.com/cbjing/python-imagery
-- Notebook: [./day2_am/day2_am.ipynb](day2_am/day2_am.ipynb)
+- Notebook: [./day2_pm/day2_pm.ipynb](day2_am/day2_am.ipynb)
 
 1. 遥感影像数据读写
     - RasterIO、GDAL
@@ -43,14 +55,3 @@
     - 色彩调整
     - 裁剪
     - ...
-
-
-## day2 p.m.
-- Notebook: [./day2_pm/machine_learning/house-price.ipynb](./day2_pm/machine_learning/house-price.ipynb)
-- Notebook: [./day2_pm/neural_networks.ipynb](./day2_pm/neural_networks.ipynb)
-
-1. 机器学习讲解
-    - 以随机森林为例子，结合sklearn讲解房价预测
-2. 深度学习讲解
-    - 讲解基本CNN原理，简单介绍手写数字识别demo
-
